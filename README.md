@@ -75,7 +75,7 @@ Facilita la identificación de patrones operacionales y desviaciones específica
 ### 📄 Dashboard Power BI – Versión PDF (reporte ejecutivo)
 Versión estática del dashboard utilizada como resumen ejecutivo para revisión rápida.
 
-👉 [Descargar PDF]
+👉 [Descargar PDF](https://github.com/JorgeJC84/powerbi-operational-dashboard/blob/main/Dashboard_KPIs_Operacionales_Planta_Concentradora.pdf)
 
 ---
 
